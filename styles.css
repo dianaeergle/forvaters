@@ -1,0 +1,75 @@
+
+
+.back {
+background-color: #0f4c75;
+font-family: 'Crimson Text', serif;
+
+}
+
+
+.Important {
+
+  background-color: #bbe1fa;
+  margin: 0 15% 5% 15%;
+  text-align: left;
+  padding: 5% 5% 5% 5% ;
+  font-family: 'Playfair Display', serif;
+}
+
+
+.certificate {
+  background-color: #bbe1fa;
+  margin: 0 15% 5% 15%;
+  text-align: left;
+  padding: 5% 5% 5% 5% ;
+
+}
+
+.before {
+  background-color: #bbe1fa;
+  margin: 0 15% 5% 15%;
+  text-align: left;
+  padding: 5% 5% 5% 5% ;
+
+}
+
+.lower-container{
+  background-color: #bbe1fa;
+  margin: 0 15% 5% 15%;
+  text-align: left;
+  padding: 5% 5% 5% 5% ;
+
+}
+
+.pic {
+  width:24.5%;
+  height: auto;
+}
+
+
+.pict {
+  width:24.5%;
+  height: auto;
+  padding: 5% 0 5% 0 ;
+
+}
+
+.last{
+  background-color: gray;
+  margin: 0 15% 5% 15%;
+  text-align: left;
+  padding: 5% 5% 5% 5% ;
+}
+
+.navbar-brand {
+  color: blue;
+}
+
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:serif, sans-serif;font-size:16px;overflow:hidden;
+  padding:15px 15px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:serif, sans-serif;font-size:16px;font-weight:normal;
+  overflow:hidden;padding:15px 15px;word-break:normal;}
+.tg .tg-1zvw{border-color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
